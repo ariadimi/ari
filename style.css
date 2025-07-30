@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body
+{
+ font-family: "Raleway", sans-serif;
+}
+
+
+
+:root
+{
+    --cor-principal: #00aeff;
+    --cor-secundaria: #325bff; 
+    --cor-destaque: #1b046f; 
+
+}
